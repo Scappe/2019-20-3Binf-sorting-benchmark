@@ -33,5 +33,3 @@ def selection_sort(mylist):
     #print(mylist)
 
     return (stop_time-start_time)
-
-   
